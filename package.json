@@ -1,0 +1,25 @@
+{
+  "name": "first-io-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "Tiep Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "victor": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
